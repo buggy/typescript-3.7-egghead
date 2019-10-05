@@ -1,0 +1,23 @@
+{
+  "name": "typescript-3.7-egghead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnappyTutorials/typescript-3.7-egghead.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnappyTutorials/typescript-3.7-egghead/issues"
+  },
+  "homepage": "https://github.com/SnappyTutorials/typescript-3.7-egghead#readme",
+  "devDependencies": {
+    "typescript": "^3.7.0-dev.20191004"
+  }
+}
